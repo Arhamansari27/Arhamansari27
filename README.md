@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://tse3.mm.bing.net/th?id=OIP.pqcPskVdTrJqfhZ-Z49AtQHaHn&pid=Api&P=0&h=220" width="200px"/>
+      <img src="https://tse3.mm.bing.net/th?id=OIP.pqcPskVdTrJqfhZ-Z49AtQHaHn&pid=Api&P=0&h=220" width="100px" height="100px"/>
     </td>
   </tr>
 </table>
