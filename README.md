@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dietitian-aiza-naeem/">
-    Linkedin
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
   </a>
   <a href="https://leetcode.com/arhamansari11/">Leetcode</a>
 </div>
