@@ -1,4 +1,4 @@
-<h1>Hello I am Muhammad Arham</h1>
+# Hello I am Muhammad Arham
 
 - 🔭 I’m currently working on Github Readme File
 - 🌱 I’m currently learning Github
@@ -8,4 +8,14 @@
 - 📫 How to reach me: [Email](arham96100@gmail.com)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am very funny
+
+# Skills Sets:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://tse3.mm.bing.net/th?id=OIP.pqcPskVdTrJqfhZ-Z49AtQHaHn&pid=Api&P=0&h=220"/>
+    </td>
+  </tr>
+</table>
 
