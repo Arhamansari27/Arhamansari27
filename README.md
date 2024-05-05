@@ -37,5 +37,5 @@
 # Github Stats
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhamansari27&theme=dark&show_icons=true)
+  [![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhamansari27)](https://github.com/Arhamansari27/github-readme-stats)
 </div>
