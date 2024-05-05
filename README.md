@@ -43,7 +43,7 @@
     </a>
    <p align="center">
    <a href="https://github.com/Arhamansari27"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arhamansari27&theme=algolia&hide_border=true" /> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arhamansari27&theme=vue&hide_border=true" /> 
    </a>  
  </p 
 </p>
