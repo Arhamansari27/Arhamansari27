@@ -24,3 +24,9 @@
   </tr>
 </table>
 
+# Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dietitian-aiza-naeem/">LinkedIn Profile</a>
+</div>
+
