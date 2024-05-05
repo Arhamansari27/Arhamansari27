@@ -33,3 +33,9 @@
   <a href="https://leetcode.com/arhamansari11/">Leetcode</a>
 </div>
 
+
+# Github Stats
+
+<div align="center">
+  ![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?Arhamansari27=anuraghazra&theme=dark&show_icons=true)
+</div>
