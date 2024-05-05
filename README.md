@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on other creators
 - 🤔 I’m looking for help with other developers
 - 💬 Ask me about Github
-- 📫 How to reach me: <a mailto="arham96100@gmail.com" >arham96100</a>
+- 📫 How to reach me: [Email](arham96100@gmail.com)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am very funny
 
