@@ -33,6 +33,7 @@
   <a href="https://leetcode.com/arhamansari11/">Leetcode</a>
 </div>
 
+<img src="https://raw.githubusercontent.com/mqurban/Syntax-Scorrers/main/Scorrers.webp"/>
 
 # Github Stats
 
