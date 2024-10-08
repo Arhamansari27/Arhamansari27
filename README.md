@@ -2,4 +2,4 @@
 
 @<a href="https://github.com/arhamansari11/"> My Real Github Account. </a>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,django)](https://github.com/Arhamansari27)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,django)]
