@@ -2,7 +2,7 @@
 
 @<a href="https://github.com/arhamansari11/"> My Real Github Account. </a>
 
-<hr/>
+#
 
 <p align="center">
     <a href="https://github.com/Arhamansari27">
