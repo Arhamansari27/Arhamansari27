@@ -5,4 +5,4 @@
 
 # My skills sets:
 
-  <img src="https://raw.githubusercontent.com/arhamansari11/arhamansari11/main/undefined_imageLink_0wape0zy6.webp" width="390">
+  <img src="" width="390">
