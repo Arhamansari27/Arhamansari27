@@ -3,5 +3,4 @@
 <h3> I am currently in 1st semester. </h3>
 <a href="http://github.com/arhamansari11"> My Real Github Account.</a>
 
-- I am Boy.
-- I am 19 years old
+# My skills sets:
