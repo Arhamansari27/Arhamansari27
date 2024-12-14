@@ -6,3 +6,4 @@
 # My skills sets:
 
   <img src="https://github.com/Arhamansari27/Arhamansari27/blob/main/WorkShop.jpeg?raw=true" width="400px" height="370px">
+  <img src="https://github.com/Arhamansari27/Arhamansari27/blob/main/Cat.jpg?raw=true" width="300px" height="250px">
