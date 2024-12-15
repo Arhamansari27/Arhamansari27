@@ -12,8 +12,8 @@
  ## Github Stats📈:
 <p align="center">
     <a href="https://github.com/Arhamansari27">
-        <img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arhamansari27&show_icons=true&theme=darcula&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arhamansari27&langs_count=12&layout=compact&langs_count=8&theme=darcula&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arhamansari27&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arhamansari27&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
@@ -21,7 +21,7 @@
 
  <p align="center">
    <a href="https://github.com/Arhamansari27"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arhamansari27&show_icons=true&locale=en&layout=demo&theme=darcula&hide_border=true" /> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arhamansari27&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
    </a>  
  </p>
 
