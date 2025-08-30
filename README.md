@@ -3,8 +3,8 @@
 </div>
 
 
-<h1 align="center">👋 Hey there, I'm Saad Khan</h1>
-<h3 align="center">Generative AI & LLM Solution Strategist | Customer Success Executive | SaaS Growth Leader</h3>
+<h1 align="left">👋 Hey there, I'm Saad Khan</h1>
+<h3 align="left">Generative AI & LLM Solution Strategist | Customer Success Executive | SaaS Growth Leader</h3>
 
 ---
 
