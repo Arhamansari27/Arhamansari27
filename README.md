@@ -10,13 +10,13 @@
 
 ## 📖 About Me  
 
-I’m a **Customer Success Executive** with 10+ years of experience leading enterprise programs for **Global 1000 and Fortune 500 clients**, focused on **SaaS, Generative AI, and LLM solution adoption**.  
+I’m Saad Khan a **Customer Success Executive** with 10+ years of experience leading enterprise programs for **Global 1000 and Fortune 500 clients**, focused on **SaaS, Generative AI, and LLM solution adoption**.  
 
 I specialize in building **scalable customer success frameworks**, delivering **AI/ML-driven value realization**, and aligning post-sales strategies to measurable business outcomes.  
 
-✅ **125%+ Net Revenue Retention (NRR)**  
+<!-- ✅ **125%+ Net Revenue Retention (NRR)**  
 ✅ **160%+ Upsell Growth** across enterprise accounts  
-✅ Recognized **AI Thought Leader & Ethical AI Advocate**  
+✅ Recognized **AI Thought Leader & Ethical AI Advocate**   -->
 
 ---
 
