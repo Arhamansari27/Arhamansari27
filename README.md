@@ -66,10 +66,14 @@ I specialize in building **scalable customer success frameworks**, delivering **
 
 ---
 
-## 🎤 Leadership & Speaking  
+## 🎤 Leadership & Speaking   
 
-- 🎙️ **Webinar Speaker** – Pak Angels | *AI & Entrepreneurship* (2025)  
-- 🏆 **Judge** – Pakistan Engineering Council Hackathon | *Generative AI* (2025)  
+1. [How to Shift from a Non-Tech Field to a Tech Field](https://www.youtube.com/watch?v=-jHoAh31CpQ)  
+2. [Securing Data in the Age of AI: Navigating Risks, Tools & Best Practices](https://www.youtube.com/watch?v=rEybuqeIebs)  
+3. [Architecting the Future: Building Real Value with AI—Not Just Hype](https://www.youtube.com/watch?v=YYIER4eAFcs)  
+4. [Responsible Uses of Generative AI](https://www.youtube.com/live/unoJ4hLy-aI)  
+5. [How AI is Revolutionizing Startups & Entrepreneurship](https://www.youtube.com/live/oIUkx5Pwsds)  
+6. [AI & The Future of Work: What’s Next for the Workforce?](https://www.youtube.com/live/XqEgufG5C6c)  
 
 ---
 
