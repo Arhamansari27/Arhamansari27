@@ -41,16 +41,15 @@ I specialize in building **scalable customer success frameworks**, delivering **
 
 ---
 
-## 📂 Featured Projects  
 
-🔹 **[Victry AI – Career Intelligence Platform](https://khansaad.com)** (Founder & Developer)  
-> AI-driven platform to guide career intelligence using ML-based forecasting.  
+## 🎤 Leadership & Speaking   
 
-🔹 **Mystic Girls Club – NFT Launch Strategy** (CMO)  
-> Led go-to-market and growth strategy for an NFT project with strong community engagement.  
-
-🔹 **Time-Series Forecast Engine Comparison** (VMware)  
-> Built and compared ML models to forecast SaaS product sales and adoption.  
+1. [How to Shift from a Non-Tech Field to a Tech Field](https://www.youtube.com/watch?v=-jHoAh31CpQ)  
+2. [Securing Data in the Age of AI: Navigating Risks, Tools & Best Practices](https://www.youtube.com/watch?v=rEybuqeIebs)  
+3. [Architecting the Future: Building Real Value with AI—Not Just Hype](https://www.youtube.com/watch?v=YYIER4eAFcs)  
+4. [Responsible Uses of Generative AI](https://www.youtube.com/live/unoJ4hLy-aI)  
+5. [How AI is Revolutionizing Startups & Entrepreneurship](https://www.youtube.com/live/oIUkx5Pwsds)  
+6. [AI & The Future of Work: What’s Next for the Workforce?](https://www.youtube.com/live/XqEgufG5C6c)  
 
 ---
 
@@ -67,24 +66,27 @@ I specialize in building **scalable customer success frameworks**, delivering **
 
 ---
 
-## 🎤 Leadership & Speaking   
-
-1. [How to Shift from a Non-Tech Field to a Tech Field](https://www.youtube.com/watch?v=-jHoAh31CpQ)  
-2. [Securing Data in the Age of AI: Navigating Risks, Tools & Best Practices](https://www.youtube.com/watch?v=rEybuqeIebs)  
-3. [Architecting the Future: Building Real Value with AI—Not Just Hype](https://www.youtube.com/watch?v=YYIER4eAFcs)  
-4. [Responsible Uses of Generative AI](https://www.youtube.com/live/unoJ4hLy-aI)  
-5. [How AI is Revolutionizing Startups & Entrepreneurship](https://www.youtube.com/live/oIUkx5Pwsds)  
-6. [AI & The Future of Work: What’s Next for the Workforce?](https://www.youtube.com/live/XqEgufG5C6c)  
-
----
-
 ## 📫 Connect with Me  
 
-- 📧 Email: **saadk408@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/saad-khan)  
-- 🌍 [Portfolio](https://khansaad.com)  
-- 🐙 [GitHub](https://github.com/saadk408)  
+<p align="center">
+  <a href="mailto:saadk408@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/saad-khan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://khansaad.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/saadk408" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 
 ---
 
-⭐️ From [Saad Khan](https://github.com/saadk408)  
+<!-- ⭐️ From [Saad Khan](https://github.com/saadk408)  -->
