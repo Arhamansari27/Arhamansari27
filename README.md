@@ -55,16 +55,7 @@ I specialize in building **scalable customer success frameworks**, delivering **
   </p>
 </div>
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: black; }
-}
-</style>
+
 
 
 ---
