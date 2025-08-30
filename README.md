@@ -32,11 +32,12 @@ I specialize in building **scalable customer success frameworks**, delivering **
 
 ## 🛠️ Technical Skills  
 
-**AI & LLMs:** LLM Integration · Generative AI Platforms · AI Virtual Agents · Prompt Engineering · Model Tuning  
-**Programming & APIs:** Python · Java · SQL · REST APIs · JSON Troubleshooting  
-**Cloud & Infrastructure:** AWS · Microsoft Azure · Kubernetes · Docker · SaaS Architecture  
-**Customer Success Tools:** Salesforce · Gainsight · Zendesk · Jira · HubSpot  
-**Productivity & Enablement:** Replit · Vercel · No-Code/Low-Code Platforms  
+<a href="https://github.com/saadk408">
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=python,java,mysql,aws,azure,kubernetes,docker,restapi,json,salesforce,gainsight,zendesk,jira,hubspot,replit,vercel,nocode,lowcode" />
+</p>
+</a>
+
 
 ---
 
