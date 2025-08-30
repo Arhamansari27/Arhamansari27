@@ -39,6 +39,34 @@ I specialize in building **scalable customer success frameworks**, delivering **
 </a>
 
 
+## 🛠️ Technical Skills  
+
+<div align="left">
+  <p style="font-family:monospace; font-size:16px; white-space:nowrap; overflow:hidden; border-right:3px solid; width:fit-content; animation:typing 6s steps(50, end) infinite, blink-caret .75s step-end infinite;">
+    💡 AI & LLMs: LLM Integration · Generative AI Platforms · AI Virtual Agents · Prompt Engineering · Model Tuning  
+    <br/>
+    👨‍💻 Programming & APIs: Python · Java · SQL · REST APIs · JSON Troubleshooting  
+    <br/>
+    ☁️ Cloud & Infrastructure: AWS · Microsoft Azure · Kubernetes · Docker · SaaS Architecture  
+    <br/>
+    📊 Customer Success Tools: Salesforce · Gainsight · Zendesk · Jira · HubSpot  
+    <br/>
+    ⚡ Productivity & Enablement: Replit · Vercel · No-Code/Low-Code Platforms  
+  </p>
+</div>
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black; }
+}
+</style>
+
+
 ---
 
 
@@ -77,12 +105,12 @@ I specialize in building **scalable customer success frameworks**, delivering **
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=saadk408&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadk408&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadk408&theme=tokyonight" />
 </p>
 
